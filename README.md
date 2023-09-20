@@ -1,3 +1,3 @@
 # Api_GT
-* Base de Dato en SQL Server
+* Base de Datos en SQL Server
 * Metodos http(GET , POST , PUT , DELETE)
